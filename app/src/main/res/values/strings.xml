@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="message">Enter Message</string>
+    <string name="click_me">Click Me</string>
+    <string name="click_phone">Click Phone</string>
+    <string name="click">Click</string>
+    <string name="click_radio">Click Radio Button</string>
+    <string name="enabled">Чекбокс</string>
+    <string name="next_activity">NEXT</string>
+    <string name="text">Simple Text View</string>
+    <string name="text2">"Hello World</string>
+</resources>
