@@ -36,10 +36,6 @@ class MainActivity : AppCompatActivity() {
         }
 
     fun nextActivity(view: View?) {
-        val button = view as Button        // Button button = (Button)view;
-        val textButton = button.text.toString()
-        Snackbar.make(view, textButton, Snackbar.LENGTH_LONG)
-            .show()
         val intent = Intent(this, SecondActivity::class.java)
         startActivity(intent)
     }
